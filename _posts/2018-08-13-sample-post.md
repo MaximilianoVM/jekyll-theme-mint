@@ -2,7 +2,7 @@
 layout: post
 ---
 
-Sample post with some content styles.
+Hola que rollo.
 
 ## Headings
 
